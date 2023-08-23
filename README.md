@@ -9,6 +9,9 @@
 ###
 
 <div align="center">
+  <a href="https://www.buymeacoffee.com/davidbneto" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+  </a>
   <a href="https://www.linkedin.com/in/davidbneto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -120,10 +123,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/12178774872">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+![Recently played](https://spotify-recently-played-readme.vercel.app/api?user=12178774872&unique={true|1|on|yes}&width=1000)
 
 ###
+
