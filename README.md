@@ -112,10 +112,6 @@
   <img align="right" src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </h2>
-    
-###
-
-<img src="https://raw.githubusercontent.com/davidbneto/davidbneto/output/snake.svg" alt="Snake animation" />
 
 ###
 
