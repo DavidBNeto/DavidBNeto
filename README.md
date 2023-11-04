@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Software Architecture and Ethical Hacking<br>🎯 Goals: Keep learning, keep developing, keep improving<br>🎲 Fun fact: technically, I'm 2006's TIME's choice for Person of the Year</p>
+<p align="left">:octocat: Language-Agnostic <br> ✨ Creating bugs since 2017<br> 🎯 Goals: Keep learning, keep developing, keep improving<br> 📚 I'm currently learning Software Architecture and Ethical Hacking<br> 🎲 Fun fact: technically, I'm 2006's TIME's choice for Person of the Year</p>
 
 ###
 
@@ -104,14 +104,6 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
 </div>
-
-###
-
-<h2 align="left" vertical-align:"middle">But my main stack is
-  <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img align="right" src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-</h2>
 
 ###
 
