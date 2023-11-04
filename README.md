@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Software Architecture and Ethical Hacking<br>🎯 Goals: Keep learning, keep developing, keep improving<br>🎲 Fun fact: technically, I'm 2006's Time Person of the Year</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Software Architecture and Ethical Hacking<br>🎯 Goals: Keep learning, keep developing, keep improving<br>🎲 Fun fact: technically, I'm 2006's TIME's choice for Person of the Year</p>
 
 ###
 
