@@ -115,7 +115,9 @@
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left">
+<img src="https://raw.githubusercontent.com/davidbneto/davidbneto/output/snake.svg" alt="Snake animation" />  
+</h2>
 
 ###
 
